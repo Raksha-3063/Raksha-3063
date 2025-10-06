@@ -26,24 +26,19 @@
 
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 2rem;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Raksha-3063&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Raksha's GitHub Stats" width="400"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raksha-3063&theme=radical" alt="GitHub Streak Stats" width="400"/>
-
-</div>
-
----
-
-### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksha-3063&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="400"/>
+  <!-- Two cards side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Raksha-3063&show_icons=true&theme=radical&hide_border=false&hide_rank=false&show=prs,issues,repositories&count_private=true&include_all_commits=true&cache_seconds=600" alt="GitHub Stats" width="400" style="display: inline-block; margin-right: 10px;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raksha-3063&theme=radical" alt="GitHub Streak Stats" width="400" style="display: inline-block;" />
 </p>
 
----
+<p align="center">
+  <!-- One card below -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksha-3063&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="400" />
+</p>
 
-### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rakshacc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
