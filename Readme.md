@@ -51,8 +51,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raksha-3063&label=Profile%20Views&color=FF6EC7&style=flat" alt="Profile Views"/>
-</p>
