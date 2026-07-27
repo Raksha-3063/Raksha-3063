@@ -38,9 +38,7 @@ Aspiring AI/ML Engineer | Data Science Enthusiast | Final Year CSE Student
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Raksha-3063&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Raksha-3063&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
